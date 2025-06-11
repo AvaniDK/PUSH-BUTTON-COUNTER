@@ -14,7 +14,7 @@
 
 # TASK DESCRIPTION
 
-### ***Project Description***:
+### Project Description
 Push Button Counter with LCD Display
 This project demonstrates a simple yet educational use of Arduino to create a digital counter system using a push button and a 16x2 LCD display. It is ideal for beginners who want to learn basic embedded systems concepts such as input handling, output display, and digital logic implementation with Arduino.
 
@@ -31,7 +31,7 @@ The LCD is interfaced using the LiquidCrystal library, a standard Arduino librar
 
 In addition, users can expand the project by adding features such as a reset button, count-down mode, or EEPROM storage to retain values across resets. These extensions provide a good opportunity for learners to explore concepts like digital write logic, conditional branching, and memory management on microcontrollers.
 
-### *Learning Outcomes*
+### Learning Outcomes
 This project offers hands-on experience in:
 
 Digital input/output handling using Arduino
@@ -52,7 +52,7 @@ Modular thinking through potential feature upgrades
 
 It is also a great foundation for more advanced projects like menu systems, multi-button setups, or digital user interfaces. Students working on mini-projects, prototypes, or simple interactive devices can benefit from understanding this pattern of user input and visual output.
 
- *Applications*
+ ### Applications
 While simple in nature, this project models the basic principles behind more complex systems such as:
 
 Digital event counters
@@ -65,7 +65,7 @@ Scoreboards and timer-based applications
 
 DIY electronics counters for labs or workshops
 
- *Tools & Technologies Used*
+ ### Tools & Technologies Used
 Arduino Uno
 
 16x2 LCD Display
