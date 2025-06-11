@@ -12,7 +12,7 @@
 
 *MENTOR* : NEELA SANTOSH
 
-#TASK DESCRIPTION
+# TASK DESCRIPTION
 
 Project Description: Push Button Counter with LCD Display
 This project demonstrates a simple yet educational use of Arduino to create a digital counter system using a push button and a 16x2 LCD display. It is ideal for beginners who want to learn basic embedded systems concepts such as input handling, output display, and digital logic implementation with Arduino.
