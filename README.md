@@ -79,3 +79,5 @@ Tinkercad Circuits (for simulation)
 Arduino IDE (for coding)
 
 # OUTPUT
+
+![Image](https://github.com/user-attachments/assets/c6663821-ef5c-4e29-889b-a31908be7f19)
