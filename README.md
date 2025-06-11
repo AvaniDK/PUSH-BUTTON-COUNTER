@@ -14,7 +14,7 @@
 
 # TASK DESCRIPTION
 
-### Project Description:
+### ***Project Description***:
 Push Button Counter with LCD Display
 This project demonstrates a simple yet educational use of Arduino to create a digital counter system using a push button and a 16x2 LCD display. It is ideal for beginners who want to learn basic embedded systems concepts such as input handling, output display, and digital logic implementation with Arduino.
 
@@ -22,7 +22,7 @@ The main purpose of this project is to increment a counter every time a push but
 
 The project was created and simulated using Tinkercad Circuits, a free online platform that allows users to design and test Arduino-based projects without the need for physical components. This makes it highly accessible and easy to replicate for learning or demonstration purposes. Even those without access to an Arduino board or LCD display can interact with the simulation and observe how each component behaves in real time.
 
- How It Works
+ ### How It Works
 A digital input pin on the Arduino is connected to a push button. When the button is pressed, the Arduino detects the change in signal and increments a counter variable stored in memory. The updated value of the counter is then sent to a 16x2 LCD screen, which displays the count in real time. The LCD is wired in 4-bit mode to reduce the number of required digital pins, and its contrast is controlled using a 10kΩ potentiometer.
 
 The push button is configured with Arduino's internal pull-up resistor to keep the circuit simple and avoid floating input values. This setup reads a LOW signal when pressed, making it easier to detect presses reliably. A short delay is also used after a button press to prevent false triggers due to button bouncing.
@@ -31,7 +31,7 @@ The LCD is interfaced using the LiquidCrystal library, a standard Arduino librar
 
 In addition, users can expand the project by adding features such as a reset button, count-down mode, or EEPROM storage to retain values across resets. These extensions provide a good opportunity for learners to explore concepts like digital write logic, conditional branching, and memory management on microcontrollers.
 
- *Learning Outcomes*
+### *Learning Outcomes*
 This project offers hands-on experience in:
 
 Digital input/output handling using Arduino
